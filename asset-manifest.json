@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/akshayudupa7/webpage.git/static/css/main.c9b1b936.css",
-    "main.js": "/akshayudupa7/webpage.git/static/js/main.89f691b9.js",
-    "static/js/787.54f029f9.chunk.js": "/akshayudupa7/webpage.git/static/js/787.54f029f9.chunk.js",
-    "index.html": "/akshayudupa7/webpage.git/index.html",
-    "main.c9b1b936.css.map": "/akshayudupa7/webpage.git/static/css/main.c9b1b936.css.map",
-    "main.89f691b9.js.map": "/akshayudupa7/webpage.git/static/js/main.89f691b9.js.map",
-    "787.54f029f9.chunk.js.map": "/akshayudupa7/webpage.git/static/js/787.54f029f9.chunk.js.map"
+    "main.css": "/webpage/static/css/main.c9b1b936.css",
+    "main.js": "/webpage/static/js/main.f81651af.js",
+    "static/js/787.54f029f9.chunk.js": "/webpage/static/js/787.54f029f9.chunk.js",
+    "index.html": "/webpage/index.html",
+    "main.c9b1b936.css.map": "/webpage/static/css/main.c9b1b936.css.map",
+    "main.f81651af.js.map": "/webpage/static/js/main.f81651af.js.map",
+    "787.54f029f9.chunk.js.map": "/webpage/static/js/787.54f029f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9b1b936.css",
-    "static/js/main.89f691b9.js"
+    "static/js/main.f81651af.js"
   ]
 }
