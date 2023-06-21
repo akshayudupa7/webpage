@@ -29,7 +29,7 @@ export default function Header() {
         </li>  
       </ul>
       <form class="d-flex" >
-      <button className="btn1 border-none">Sign In</button>
+      <button className="btn1">Sign In</button>
         <button className="btn2" type="submit">Get Started</button>
       </form>
     </div>
