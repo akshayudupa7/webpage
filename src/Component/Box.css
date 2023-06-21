@@ -1,0 +1,41 @@
+.box-head img{
+    width:100%;
+}
+.box-main h5{
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 30px;
+}
+
+.box-main h5.hello{
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 8px;
+}
+.box-main1{
+    margin-top: 40px;
+    border:1px solid rgb(224, 220, 220);
+  padding-top: 30px;
+  border-radius: 20px;
+}
+.box-para h2{
+    font-size: 4rem;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 40px;
+}
+.box-para p{
+    font-size: 1.2rem;
+    text-align: center;
+    font-weight: 300;
+  
+
+}
+@media(max-width:900px){
+    .box-head img{
+        width:40%;
+        display: flex;
+        justify-content: center;
+    }
+  
+}

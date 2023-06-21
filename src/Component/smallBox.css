@@ -1,0 +1,9 @@
+.square{
+    padding: 2rem 1rem;
+    border: 1px solid #dcd6d6;
+    margin-top: 3rem;
+    border-radius: 5px;
+}
+.square img{
+    margin-bottom: 10px;
+}

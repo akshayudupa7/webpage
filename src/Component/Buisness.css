@@ -1,0 +1,31 @@
+h2.buis{
+    font-size: 3rem;
+    text-align: center;
+    margin: 5rem 0rem;
+    font-weight: bolder;
+}
+.buis-box{
+  border: 1px solid rgb(229, 223, 223);
+  padding: 2rem 2rem;
+  border-radius: 20px;
+}
+.buis-box h3{
+    color:#285fca;
+    font-size: 2rem;
+
+}
+.buis-box p{
+    color:rgb(163, 163, 167);
+    font-size: 1rem;
+    font-weight: 200;
+}
+.buis-box a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bolder;
+    color: black;
+   
+}
+.buis-para p{
+    font-size: 0.7rem;
+}

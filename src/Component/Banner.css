@@ -1,0 +1,32 @@
+.main h1{
+    font-size: 4.5rem;
+    font-weight: bolder;
+    margin-top: 4rem;
+    text-align: center;
+}
+.main p{
+    font-size: 1.2rem;
+    color: rgb(143, 141, 141);
+    text-align: center;
+    margin-top: 2rem;
+}
+.main .form{
+      display: flex;
+      justify-content:center;
+      margin-bottom: 50px;
+}
+.main input{
+    width:40%;
+    outline:1px solid rgb(166, 164, 164);
+     border:none;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+.main button{
+    background-color:#285fca;
+    color:#fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}

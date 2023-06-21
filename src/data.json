@@ -1,0 +1,176 @@
+{
+    "images":[
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d969cad44fb711e700c0a1_Group%2018530.webp"
+        },
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d969cae70f01d34820d129_Group%2018531.webp"
+        },
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d969c99e10c822b37179e8_Group%2018532.webp"
+        },
+      
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d969ca4e2bcd235bf57982_Group%2018533.webp"
+        },
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d969ca47165b7b29cd5bfa_Group%2018534.webp"
+        },
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d969cb054ce48a81f23d47_Group%2018535.webp"
+        }
+    ],
+    "boxes1":[
+        {
+            "image":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d9bbec00a8aaf428800c75_Group%2018613.svg",
+             "link":"Reviews",
+             "para":"improve ratings & get chosen more."
+        },
+        {
+            "image":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d9bbeb4806cd1c4715ced5_Group%2018614.svg",
+             "link":"Listing",
+             "para":"Improve listings & get seen more.."
+        },
+        {
+            "image":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d9bbec43bcc550dc49c6e8_Group%2018624.svg",
+             "link":"Marketing",
+             "para":"Reach out to customers on text & email.."
+        },
+        {
+            "image":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d9bbeb12ef6612375a88c4_Group%2018618.svg",
+             "link":"SmartPages",
+             "para":"iEngage more with our AI SEO."
+        }
+    ],
+    "boxes2":[
+        {
+            "image":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d9bbeb8a983469d6918815_Group%2018616.svg",
+             "link":"WebChat",
+             "para":"Convert leads on website chat with our AI."
+        },
+        {
+            "image":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d9bbeb7cee6e0fc06b720a_Group%2018617.svg",
+             "link":"Messaging",
+             "para":"Engage with customers across all channels."
+        },
+        {
+            "image":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d9bbec43bcc550dc49c6e8_Group%2018624.svg",
+             "link":"Referal",
+             "para":"Let your customers refer you."
+        },
+        {
+            "image":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d9bbebaaeb8c7e7cef4b97_Group%2018619.svg",
+             "link":"Payments",
+             "para":"Modernize your integrated payment tools"
+        }
+    ],
+    "boxes3":[
+        {
+            "image":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d9bbec00a8aaf428800c75_Group%2018613.svg",
+             "link":"Captian AI",
+             "para":"Your AI assistant to drive growth"
+        },
+        {
+            "image":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d9bbeb4806cd1c4715ced5_Group%2018614.svg",
+             "link":"FeedBack & Survey",
+             "para":"Listen to your customers & delight them."
+        },
+        {
+            "image":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d9bbec43bcc550dc49c6e8_Group%2018624.svg",
+             "link":"Competition & Insights",
+             "para":"Learn about your competitors & insights."
+        },
+        {
+            "image":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62d9bbeb12ef6612375a88c4_Group%2018618.svg",
+             "link":"Customer Manager",
+             "para":"Manage all your customer data & activity."
+        }
+    ],
+    "SmallBox1":[
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62dd3e7d32dfae5cd2e139e5_Group%2018673.svg",
+            "para":"HealthCare"
+        },
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62dd3e7ddd5081b753e27b8c_Group%2018676.svg",
+            "para":"Hospitality"
+        },
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62dd3e7e8642e9d49c2d89dd_Group%2018680.svg",
+            "para":"Professional Services"
+        }
+
+    ],
+    "SmallBox2":[
+
+    
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62dd3e7c6aace717f0cd9c6b_Group%2018674.svg",
+            "para":"Dental"
+        },
+      
+     
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62dd3e7d132cbe948c251a1b_Group%2018677.svg",
+            "para":"Automotive"
+
+        },
+      
+       
+      
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62dd3e7e9f7f1b11439eedef_Group%2018682.svg",
+            "para":"CareServices"
+        }
+      
+    ],
+    "SmallBox3":[
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62dd3e7ee724d71235537f0b_Group%2018681.svg",
+            "para":"Home & Services"
+        },
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62dd3e7e8642e919312d89de_Group%2018678.svg",
+            "para":"Resturants"
+        },
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62dd3e7eee175fd8089febf1_Group%2018683.svg",
+            "para":"Financial Services"
+        }
+
+    ],
+    "SmallBox4":[
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62dd3e7d9f7f1bb4a89eedec_Group%2018675.svg",
+            "para":"Retail"
+        },
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62dd3e7e13ffea380326cf92_Group%2018679.svg",
+            "para":"WellNess"
+        },
+        {
+            "pic":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62dd3e7e9f7f1b73679eedee_Group%2018684.svg",
+            "para":"Recreational Services"
+        }
+
+
+    ],
+    "expert":[
+        {    
+            "image":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62defe250a42e4ba76b2ab04_Mask%20Group%20166.webp",
+            "head":"Google My Business Basics: How to get more customers from GMB.",
+            "para":"Customers want to find local proprietors on search engines and nearly 90 percent of that traffic goes to Google."
+        },
+        {
+            "image":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62defe243b03ce85cb2d8c9d_Mask%20Group%20165.webp",
+            "head":"How to use Google's Business Messaging tool to get new customers",
+            "para":"Todays leading businesses arent just being found - they are engaging the moment they are discovered."
+        },
+        {
+            "image":"https://assets.website-files.com/62a83ee090ccdee139c347e5/62defe2556fec0b3086291da_pexels-antoni-shkraba-4348404.webp",
+            "head":"6 Ways to Increase Your Website Traffic and Leads",
+            "para":"More than 61% of marketers have reported that attracting traffic to their website is their biggest challenge.."
+        }
+
+    ]
+}

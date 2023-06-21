@@ -1,0 +1,40 @@
+.Disc-img1 img,.Disc-img2 img{
+   width:70%;
+}
+.Disc-img1{
+    width:50%;
+    display: flex;
+    justify-content: center;
+}
+.Disc-img2{
+    width:50%;
+    display: flex;
+    justify-content: flex-start;
+}
+.Disc-para{
+   
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.Disc-row a{
+    text-decoration: none;
+    color:#285fca;
+    font-size: 1.2rem;
+
+}
+.Disc-row{
+    margin-top: 3rem;
+}
+h2.disc{
+    margin-top: 2rem;
+    margin-bottom:2rem;
+    text-align: center;
+}
+@media(max-width:900px){
+    .Disc-img1{
+        width:50%;
+        display: flex;
+        justify-content:flex-start;
+    }
+}

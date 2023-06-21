@@ -1,0 +1,30 @@
+.expert-box h2{
+    text-align: center;
+}
+
+.part img{
+     width:80%;
+}
+.part{
+    display: flex;
+    flex-direction: row;
+}
+.gap{
+    display: flex;
+    flex-direction: column;
+}
+.gap h3{
+    font-size: 1.2rem;
+    margin-top:1.5rem;
+    margin-bottom:1.5rem
+}
+.gap p{
+    font-size: 1rem;
+    color:rgb(65, 63, 61);
+}
+@media(max-width:700px){
+    .part{
+       
+        flex-direction: column;
+    }
+}
